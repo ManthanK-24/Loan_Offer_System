@@ -1,0 +1,110 @@
+{
+    "Funding Circle": {
+        "Net Assets > 0": ">0",
+        "Loan Amount": "10000 - 800000",
+        "Term": "12-72 months",
+        "Rates": "0.74 - 2.00 pm",
+        "Monthly Repayment": "Monthly",
+        "Min Trading Time": "2 years",
+        "Tier": "Tier 1"
+    },
+    "Lending Crowd": {
+        "Net Assets > 0": ">0",
+        "Loan Amount": "40000 - 600000",
+        "Term": "1-60 months",
+        "Rates": "0.42 - 1.58 pm",
+        "Monthly Repayment": "Monthly",
+        "Min Trading Time": "2 years",
+        "Tier": "Tier 1"
+    },
+    "Momenta": {
+        "Net Assets > 0": ">0",
+        "Loan Amount": "50 - 450000",
+        "Term": "6-72 months",
+        "Rates": "15 - 20 pm",
+        "Monthly Repayment": "Monthly",
+        "Min Trading Time": "2 years",
+        "Tier": "Tier 1"
+    },
+    "Iwoca": {
+        "Net Assets > 0": ">0",
+        "Loan Amount": "25000 - 1000000",
+        "Term": "6-72 months",
+        "Rates": "1.5 - 2 pm",
+        "Monthly Repayment": "Monthly",
+        "Min Trading Time": "1 year",
+        "Tier": "Tier 1"
+    },
+    "Nucleus": {
+        "Net Assets > 0": ">0",
+        "Loan Amount": "10000 - 600000",
+        "Term": "6-72 months",
+        "Rates": "14.95 - 36 pm",
+        "Monthly Repayment": "Monthly",
+        "Min Trading Time": "1 year",
+        "Tier": "Tier 1"
+    },
+    "Shawbrook": {
+        "Net Assets > 0": ">0",
+        "Loan Amount": "15000 - 350000",
+        "Term": "12-60 months",
+        "Rates": "12 - 15 pm",
+        "Monthly Repayment": "Monthly",
+        "Min Trading Time": "3 years",
+        "Tier": "Tier 1"
+    },
+    "Fleximize": {
+        "Net Assets > 0": "N/A",
+        "Loan Amount": "5000 - 600000",
+        "Term": "1-60 months",
+        "Rates": "1.9 - 3.9 pm",
+        "Monthly Repayment": "Monthly",
+        "Min Trading Time": "6 months",
+        "Tier": "Tier 2"
+    },
+    "Swishfund": {
+        "Net Assets > 0": "N/A",
+        "Loan Amount": "15000 - 600000",
+        "Term": "1-24 months",
+        "Rates": "up - 2.2 pm",
+        "Monthly Repayment": "monthly",
+        "Min Trading Time": "1 year",
+        "Tier": "Tier 2"
+    },
+    "Mycashline": {
+        "Net Assets > 0": "N/A",
+        "Loan Amount": "5000 - 300000",
+        "Term": "12-24 months",
+        "Rates": "3.2 - 4 pm",
+        "Monthly Repayment": "Monthly",
+        "Min Trading Time": "6 months",
+        "Tier": "Tier 2"
+    },
+    "Maxcap": {
+        "Net Assets > 0": "N/A",
+        "Loan Amount": "7000 - 250000",
+        "Term": "1-12 months",
+        "Rates": "20 - 68 pm",
+        "Monthly Repayment": "Weekly or monthly",
+        "Min Trading Time": "1 year",
+        "Tier": "Tier 3"
+    },
+    "Capify": {
+        "Net Assets > 0": "N/A",
+        "Loan Amount": "5000 - 100000",
+        "Term": "3-18 months",
+        "Rates": "20 - 49 pm",
+        "Monthly Repayment": "Daily (weekly on adhoc)",
+        "Min Trading Time": "6 months",
+        "Tier": "Tier 3"
+    },
+    "GotCap": {
+        "Net Assets > 0": "N/A",
+        "Loan Amount": "2000 - 100000",
+        "Term": "6-6 months",
+        "Rates": "30 - 44 pm",
+        "Monthly Repayment": "weekly",
+        "Min Trading Time": "3 months",
+        "Tier": "Tier 3"
+    }
+}
